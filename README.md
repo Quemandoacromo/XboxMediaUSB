@@ -29,9 +29,11 @@ Games\DOS
 Games\FBNeo - Arcade Games
 Games\Mattel - Intellivision
 Games\Microsoft - MSX - MSX2 - MSX2P - MSX Turbo R
+Games\Microsoft - Xbox 360
 Games\NEC - PC Engine - TurboGrafx 16
 Games\NEC - PC Engine CD - TurboGrafx-CD
 Games\NEC - PC Engine SuperGrafx
+Games\Nintendo - 3DS
 Games\Nintendo - Family Computer Disk System
 Games\Nintendo - Game Boy Advance
 Games\Nintendo - Game Boy Color
